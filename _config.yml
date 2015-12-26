@@ -1,0 +1,28 @@
+name: Laura Gilchrist
+favicon: null
+layout_spectrum: 0.48020194098353386
+typography_spectrum: 0.8195351054891944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4841853466350585
+  lightness: 0.5881772506982088
+  saturation: 0.6792171280831099
+  rhythmicContrast: 0.45013704779557884
+purpose: []

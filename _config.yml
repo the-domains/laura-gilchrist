@@ -1,6 +1,6 @@
 name: Laura Gilchrist
 favicon: null
-layout_spectrum: 0.75678
+layout_spectrum: 0.59915
 typography_spectrum: 0.61102
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3d3b3c'
     - '#84693e'
     - '#f8d35b'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.5881772506982088
   saturation: 0.375
   rhythmicContrast: 0.45013704779557884

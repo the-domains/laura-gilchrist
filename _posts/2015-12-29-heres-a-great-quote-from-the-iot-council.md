@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Smart. Connected.
-datePublished: '2015-12-29T07:44:32.278Z'
-dateModified: '2015-12-29T07:44:17.898Z'
+datePublished: '2015-12-29T07:47:15.523Z'
+dateModified: '2015-12-29T07:47:09.144Z'
 title: "Here's a great quote from the IoT council"
 author: []
 sourcePath: _posts/2015-12-29-heres-a-great-quote-from-the-iot-council.md
@@ -25,9 +25,9 @@ _type: Article
 The Internet of Things (IoT) will be a big part of the future. You might consider reading the article by Jim Hunter (@theiotguru) on Tech Crunch (@techcrunch) asking...
 
 **'[What Will The Internet of Things Be When it Grows Up][0]?'**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3c39c6dca8b59ca18a5e8510798b2db8ca2d14e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9926e8559fd56778c703559847fbc26655e759ee.png)
 
-# Here's a great quote from the IoT council
+Here's a great quote from the IoT council
 
 **The Internet of Things (IoT) is a vision**
 

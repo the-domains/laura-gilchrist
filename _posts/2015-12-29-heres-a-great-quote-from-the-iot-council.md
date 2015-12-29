@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Tech Crunch article at the heart of the post
-datePublished: '2015-12-29T06:49:57.961Z'
-dateModified: '2015-12-29T06:47:15.039Z'
+description: Smart. Connected.
+datePublished: '2015-12-29T07:40:53.583Z'
+dateModified: '2015-12-29T07:40:46.804Z'
 title: "Here's a great quote from the IoT council"
 author: []
+sourcePath: _posts/2015-12-29-heres-a-great-quote-from-the-iot-council.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-heres-a-great-quote-from-the-iot-council.md
-published: true
 url: heres-a-great-quote-from-the-iot-council/index.html
 _type: Article
 
@@ -25,9 +25,9 @@ _type: Article
 The Internet of Things (IoT) will be a big part of the future. You might consider reading the article by Jim Hunter (@theiotguru) on Tech Crunch (@techcrunch) asking...
 
 **'[What Will The Internet of Things Be When it Grows Up][0]?'**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cab2a37-8a68-469e-89ca-1d7b679f81b3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3c39c6dca8b59ca18a5e8510798b2db8ca2d14e.png)
 
-# Here's a great [quote from the IoT council][1]
+# Here's a great quote from the IoT council
 
 **The Internet of Things (IoT) is a vision**
 
@@ -36,4 +36,3 @@ The Internet of Things (IoT) will be a big part of the future. You might conside
 
 
 [0]: http://techcrunch.com/2015/12/28/what-will-the-iot-be-when-it-grows-up/
-[1]: http://www.theinternetofthings.eu/

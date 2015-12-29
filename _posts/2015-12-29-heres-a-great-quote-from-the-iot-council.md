@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Smart. Connected.
-datePublished: '2015-12-29T07:40:53.583Z'
-dateModified: '2015-12-29T07:40:46.804Z'
+datePublished: '2015-12-29T07:44:32.278Z'
+dateModified: '2015-12-29T07:44:17.898Z'
 title: "Here's a great quote from the IoT council"
 author: []
 sourcePath: _posts/2015-12-29-heres-a-great-quote-from-the-iot-council.md

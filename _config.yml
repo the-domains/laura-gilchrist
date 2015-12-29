@@ -1,28 +1,40 @@
-name: Laura Gilchrist
-favicon: null
-layout_spectrum: 0.24831
-typography_spectrum: 0.61102
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.9301075
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#3d3b3c'
-    - '#84693e'
-    - '#f8d35b'
+  saturation: 0.375
   brandStrength: 0.5
   lightness: 0.5881772506982088
-  saturation: 0.375
-  rhythmicContrast: 0.45013704779557884
-purpose: []
+  brandColors:
+    - '#CDD0CD'
+    - '#B9AB89'
+    - '#081670'
+    - '#F01523'
+    - '#F4F6F7'
+  rhythmicContrast: 0.4501370477955788
+typography_spectrum: 0.61102
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Laura Gilchrist

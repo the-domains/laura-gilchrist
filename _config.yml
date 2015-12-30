@@ -1,8 +1,7 @@
-layout_spectrum: 0.9301075
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Laura Gilchrist
+favicon: null
+layout_spectrum: 0.5035
+typography_spectrum: 0.61102
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.5
-  lightness: 0.5881772506982088
   brandColors:
     - '#CDD0CD'
     - '#B9AB89'
     - '#081670'
     - '#F01523'
     - '#F4F6F7'
+  brandStrength: 0.5
+  lightness: 0.5881772506982088
+  saturation: 0.375
   rhythmicContrast: 0.4501370477955788
-typography_spectrum: 0.61102
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Laura Gilchrist
+purpose: []
